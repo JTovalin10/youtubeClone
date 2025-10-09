@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JTovalin10/youtubeClone#readme",
   "dependencies": {
+    "@google-cloud/storage": "^7.17.2",
     "express": "^5.1.0",
     "fluent-ffmpeg": "^2.1.3"
   },
